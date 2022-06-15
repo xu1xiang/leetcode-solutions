@@ -1,3 +1,5 @@
+// https://leetcode.cn/problems/ti-huan-kong-ge-lcof/
+
 function replaceSpace(s: string): string {
   const arr: string[] = [];
 
